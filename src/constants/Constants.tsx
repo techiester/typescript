@@ -1,4 +1,3 @@
-import {AudioSampleRateType, VideoCodecProfileType} from 'react-native-agora';
 
 const Constants = {
   LOGIN_FACEBOOK_PERMISSION: [
@@ -11,7 +10,6 @@ const Constants = {
     'publish_video',
   ],
   FACEBOOK_APP_VERSION: 'v10.0',
-  LIVE_NOW: 'LIVE_NOW',
   GraphQuery: {
     GET_FRIENDS: '/me/friends',
     LIVE_NOW: 'me/live_videos',
